@@ -1026,24 +1026,41 @@ a:hover {
     color: #9b3d6c;
 }
 
-.contact-buttons .btn {
-    background-color: #555555;
-    color: #ffffff;
-    border: none;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    margin: 10px;
-    display: inline-flex;
-    align-items: center;
+.buttons-cluster {
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
+    gap: 10px;
+    align-items: center;
 }
 
-.contact-buttons img {
-    margin-right: 8px;
+.buttons-cluster .btn {
+    max-width: 200px;
+    min-width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 50px;
+    line-height: 1;
+    margin: 0;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.buttons-cluster .btn i {
+    margin-right: 5px;
     vertical-align: middle;
 }
 
+.buttons-cluster .btn i {
+    font-size: 1.2em;
+    line-height: 1;
+}
+
+.buttons-cluster img {
+    vertical-align: middle;
+}
 
 
 
@@ -1065,6 +1082,7 @@ a:hover {
     .page-header {
         height: 300px;
     }
+
     .rounded-image {
         width: 120px;
         height: 120px;
