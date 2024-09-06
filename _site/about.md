@@ -1,19 +1,20 @@
-kurze Beschreibung mit:
-- name
-- PhD student
-- wo? DSA Uni-Marburg
-- supervised by (Alfred, Lucie)
-- Projekte
-- research focus
+Hey, I'm Lea, and my research focuses on the classification of German dialects using audio recordings. I'm currently pursuing my PhD at the [_Research Center Deutscher Sprachatlas_](https://www.uni-marburg.de/en/fb09/dsa) (DSA) at Philipps-Universität Marburg, under the supervision of [Lucie Flek](https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/tra1/mitgliederverzeichnis/lucie-flek) and [Alfred Lameli](https://www.uni-marburg.de/de/fb09/dsa/einrichtung/personen/lameli/start-99). I'm employed in the [_Regionalsprache.de_](https://regionalsprache.de/en/home.aspx) project, which is a long-term project funded by the Academy of Sciences and Literature in Mainz and also contribute to the BMBF project [_AnDy_](https://www.uni-marburg.de/en/fb09/dsa/projects/current-projects/andy). During my time at the DSA, I have worked on system development and contributed to various projects, including the creation of the [_Hessenplattform_](https://dsa.info/hessen/).
 
-- vorher masters degree
-- über App und so
-- App erwähnen (1. und 2. Version)
+Since January 2021, I've been working at the DSA. I started as a student assistant and now continue as a PhD candidate. During the time as student assistant, I developed the second version of the app [_Welcome to Bavaria_](https://www.uni-marburg.de/de/fb09/dsa/projekte/abgeschlossene-projekte/app-welcome-to-bavaria-1/app-welcome-to-bavaria) on my own. The first version was developed as part of a Master's project in a team of students. Additionally, I have experience as a tutor at Philipps-Universität Marburg, where I taught programming, technical informatics, and database systems.
+
+I completed both my Bachelor's and Master's degrees in Informatics at Philipps-Universität Marburg. My Bachelor's thesis focused on "Effiziente Serialisierung von Objekten" (Efficient Serialization of Objects). For my Master's thesis, I worked on "Angewandter Learning Analytics Prozess auf Basis einer Sprachlern-App" (Applied Learning Analytics Process Based on a Language Learning App), which was built upon the Android app that I helped develop.
 
 <span class="highlight-color">Email</span>: Lea.Fischbach \<at\> uni-marburg \<dot\> de
 
 # Research Interests
-- meine Punkte auflisten?
+- meine Punkte auflisten? -> aus Projektantrag dann später
+- Natural Language Processing 
+- Dialectology
+- Spoken Language
+- Audio Classification
+- Phonetics
+- Diatopische und Diaphasisch Dialekte (wie drückt an das richtig aus?)
+- Code-Switching
 
 # Publications
 <span class="highlight-color">Lea Fischbach</span>. 2024. [A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech](https://aclanthology.org/2024.fieldmatters-1.6/). In _Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)_, pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
