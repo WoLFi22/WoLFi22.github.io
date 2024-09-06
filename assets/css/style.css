@@ -1006,7 +1006,7 @@ body {
 }
 
 .btn {
-    background-color: #555555;
+    background-color: #882758;
     color: #ffffff;
     border: none;
     padding: 10px 20px;
@@ -1021,6 +1021,29 @@ a {
 a:hover {
     color: #76d2ff;
 }
+
+.highlight-color {
+    color: #9b3d6c;
+}
+
+.contact-buttons .btn {
+    background-color: #555555;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-buttons img {
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
 
 
 
