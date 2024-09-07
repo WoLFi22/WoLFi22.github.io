@@ -7,30 +7,66 @@ I completed both my Bachelor's and Master's degrees in Informatics at Philipps-U
 <span class="highlight-color">Email</span>: Lea.Fischbach \<at\> uni-marburg \<dot\> de
 
 # Research Interests
-- meine Punkte auflisten? -> aus Projektantrag dann später
-- Natural Language Processing 
-- Dialectology
-- Spoken Language
-- Audio Classification
-- Phonetics
-- Diatopische und Diaphasisch Dialekte (wie drückt an das richtig aus?)
-- Code-Switching
+
+<!--
+My research is organized into three main areas of focus:
+
+1. **Horizontal Dialect Classification Using Deep Learning**  
+   *How can deep learning techniques be optimized to improve the classification of German dialects based on audio recordings?*
+
+   - **Insights from Misclassified Segments:**  
+     What insights can be gained by comparing the properties of misclassified segments with the overall dataset properties?
+
+   - **Data Augmentation:**  
+     How does data augmentation affect dialect classification model performance, and what are the optimal strategies for balancing augmentation with original data, particularly regarding the types of augmentation used, its impact on rare speakers and dialects, and the potential shift in model focus from speaker recognition to dialect differentiation?
+
+2. **Horizontal Dialect Classification Using Phonetic Features**  
+   *Which phonetic features are most effective in distinguishing between dialects, and how can they be integrated with deep learning models?*
+
+   - **Vowel Contributions:**  
+     How much information do vowels alone contribute to dialect classification compared to full audio segments?
+
+   - **Phonetic Feature Extraction:**  
+     What are the most relevant phonetic features for distinguishing dialects, and how can they be extracted?
+
+3. **Combined Approaches for Vertical Dialect Classification**  
+   *Can insights from deep learning and phonetic feature analysis be used to construct an enhanced dialect classification model for horizontal classification?*
+
+   - **Dialect Switching Analysis:**  
+     How can the analysis of individual speaking behavior and dialectal variation within specific segments reveal whether a speaker is a dialect switcher, shifter, or remains consistent, and what factors, such as social environment, audience, and conversational context, influence these dialectal changes?
+-->
+
+- **Deep Learning for Horizontal Dialect Classification**
+How can deep learning techniques be optimized to enhance the classification of German dialects from audio recordings? Key aspects include leveraging insights from misclassified segments and optimizing data augmentation strategies for dialect differentiation.
+
+- **Phonetic Features in Horizontal Dialect Classification**
+Which phonetic features are crucial for distinguishing between dialects, and how can they be effectively integrated with deep learning models? This includes evaluating the contribution of vowels and extracting relevant phonetic features.
+
+- **Combined Approaches for Enhanced Vertical Dialect Classification**
+How can insights from both deep learning and phonetic feature analysis be used to develop a more effective horizontal dialect classification model? This involves analyzing speaking behavior to understand code-switching and the impact of social and contextual factors on dialect variation.
+
+---
+
+**Keywords:**  
+<span class="highlight-color">Natural Language Processing</span>, <span class="highlight-color">Dialectology</span>, <span class="highlight-color">Speech Processing</span>, <span class="highlight-color">Audio Classification</span>, <span class="highlight-color">Acoustic Phonetics</span>, <span class="highlight-color">Diatopic and Diaphasic Variation in Dialects</span>, <span class="highlight-color">Code-Switching</span>
+
+---
 
 # Publications
-<span class="highlight-color">Lea Fischbach</span>. 2024. [A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech](https://aclanthology.org/2024.fieldmatters-1.6/). In _Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)_, pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
+- <span class="highlight-color">Lea Fischbach</span>. 2024. [A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech](https://aclanthology.org/2024.fieldmatters-1.6/). In _Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)_, pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
 
-<span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
+- <span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
 
 # Selected talks, poster presentations and other updates
-"A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech", presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)" in Bangkok, Thailand (16.08.2024). (<span class="highlight-color">Lea Fischbach</span>)
+- "A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech", presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)" in Bangkok, Thailand (16.08.2024). (<span class="highlight-color">Lea Fischbach</span>)
 
-"EDAudio: Easy Data Augmentation Techniques for Audio Classification", presentation at the conference "2th International Conference on Language Variation in Europe – ICLaVE\|12" in the panel: EMBRACING VARIABILITY IN NATURAL LANGUAGE PROCESSING (10.07.2024). (Alfred Lameli, <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Akbar Karimi, Lucie Flek)
+- "EDAudio: Easy Data Augmentation Techniques for Audio Classification", presentation at the conference "2th International Conference on Language Variation in Europe – ICLaVE\|12" in the panel: EMBRACING VARIABILITY IN NATURAL LANGUAGE PROCESSING (10.07.2024). (Alfred Lameli, <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Akbar Karimi, Lucie Flek)
 
-"Dialekte des Deutschen multiperspektivisch betrachtet: Digitale Methoden zur Analyse gesprochener Sprache",  poster at the conference "60. Jahrestagung des Leibniz-Instituts für Deutsche Sprache. Gesprochenes Deutsch: Struktur, Variation, Interaktion" (06.03.2024). (<span class="highlight-color">Lea Fischbach</span>, Marina Frank, Caroline Kleen)
+- "Dialekte des Deutschen multiperspektivisch betrachtet: Digitale Methoden zur Analyse gesprochener Sprache",  poster at the conference "60. Jahrestagung des Leibniz-Instituts für Deutsche Sprache. Gesprochenes Deutsch: Struktur, Variation, Interaktion" (06.03.2024). (<span class="highlight-color">Lea Fischbach</span>, Marina Frank, Caroline Kleen)
 
-„Un programma di apprendimento di una lingua regionale in forma di App: Implementazione didattica, utilizzo e realizzazione tecnica“,  presentation at Università degli Studi die Modena e Reggio Emilia (03.10.2022). (Peter Kaspar, <span class="highlight-color">Lea Fischbach</span>)
+- „Un programma di apprendimento di una lingua regionale in forma di App: Implementazione didattica, utilizzo e realizzazione tecnica“,  presentation at Università degli Studi die Modena e Reggio Emilia (03.10.2022). (Peter Kaspar, <span class="highlight-color">Lea Fischbach</span>)
 
-„Welcome to Bavaria – Eine Sprachführer-App für die bayerischen Dialekte“, presentation at the conference „Minderheitensprachen im digitalen Zeitalter. Sprachgebrauch, Spracherhalt, Sprachvermittlung“ at the Alfred Krupp Wissenschaftskolleg Greifswald (12.12.2020). (<span class="highlight-color">Lea Fischbach</span>, Hanna Fischer, Milena Gropp, Jeffrey Pheiff)
+- „Welcome to Bavaria – Eine Sprachführer-App für die bayerischen Dialekte“, presentation at the conference „Minderheitensprachen im digitalen Zeitalter. Sprachgebrauch, Spracherhalt, Sprachvermittlung“ at the Alfred Krupp Wissenschaftskolleg Greifswald (12.12.2020). (<span class="highlight-color">Lea Fischbach</span>, Hanna Fischer, Milena Gropp, Jeffrey Pheiff)
 
 # Contact
 Feel free to connect with me through the following platforms or check out any of my profiles: <br><br>
