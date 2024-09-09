@@ -36,13 +36,13 @@ My research is organized into three main areas of focus:
      How can the analysis of individual speaking behavior and dialectal variation within specific segments reveal whether a speaker is a dialect switcher, shifter, or remains consistent, and what factors, such as social environment, audience, and conversational context, influence these dialectal changes?
 -->
 
-- **Deep Learning for Horizontal Dialect Classification**
+- **Deep Learning for Horizontal Dialect Classification**<br>
 How can deep learning techniques be optimized to enhance the classification of German dialects from audio recordings? Key aspects include leveraging insights from misclassified segments and optimizing data augmentation strategies for dialect differentiation.
 
-- **Phonetic Features in Horizontal Dialect Classification**
+- **Phonetic Features in Horizontal Dialect Classification**<br>
 Which phonetic features are crucial for distinguishing between dialects, and how can they be effectively integrated with deep learning models? This includes evaluating the contribution of vowels and extracting relevant phonetic features.
 
-- **Combined Approaches for Enhanced Vertical Dialect Classification**
+- **Combined Approaches for Enhanced Vertical Dialect Classification**<br>
 How can insights from both deep learning and phonetic feature analysis be used to develop a more effective horizontal dialect classification model? This involves analyzing speaking behavior to understand code-switching and the impact of social and contextual factors on dialect variation.
 
 ---
@@ -60,9 +60,9 @@ How can insights from both deep learning and phonetic feature analysis be used t
 # Selected talks, poster presentations and other updates
 - "A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech", presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)" in Bangkok, Thailand (16.08.2024). (<span class="highlight-color">Lea Fischbach</span>)
 
-- "EDAudio: Easy Data Augmentation Techniques for Audio Classification", presentation at the conference "2th International Conference on Language Variation in Europe – ICLaVE\|12" in the panel: EMBRACING VARIABILITY IN NATURAL LANGUAGE PROCESSING (10.07.2024). (Alfred Lameli, <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Akbar Karimi, Lucie Flek)
+- "EDAudio: Easy Data Augmentation Techniques for Audio Classification", presentation at the conference "2th International Conference on Language Variation in Europe – ICLaVE\|12" in the panel: EMBRACING VARIABILITY IN NATURAL LANGUAGE PROCESSING in Vienna, Austria (10.07.2024). (Alfred Lameli, <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Akbar Karimi, Lucie Flek)
 
-- "Dialekte des Deutschen multiperspektivisch betrachtet: Digitale Methoden zur Analyse gesprochener Sprache",  poster at the conference "60. Jahrestagung des Leibniz-Instituts für Deutsche Sprache. Gesprochenes Deutsch: Struktur, Variation, Interaktion" (06.03.2024). (<span class="highlight-color">Lea Fischbach</span>, Marina Frank, Caroline Kleen)
+- "Dialekte des Deutschen multiperspektivisch betrachtet: Digitale Methoden zur Analyse gesprochener Sprache",  poster at the conference "60. Jahrestagung des Leibniz-Instituts für Deutsche Sprache. Gesprochenes Deutsch: Struktur, Variation, Interaktion" in Mannheim, Germany (06.03.2024). (<span class="highlight-color">Lea Fischbach</span>, Marina Frank, Caroline Kleen)
 
 - „Un programma di apprendimento di una lingua regionale in forma di App: Implementazione didattica, utilizzo e realizzazione tecnica“,  presentation at Università degli Studi die Modena e Reggio Emilia (03.10.2022). (Peter Kaspar, <span class="highlight-color">Lea Fischbach</span>)
 

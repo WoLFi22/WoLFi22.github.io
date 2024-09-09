@@ -36,13 +36,13 @@ My research is organized into three main areas of focus:
      How can the analysis of individual speaking behavior and dialectal variation within specific segments reveal whether a speaker is a dialect switcher, shifter, or remains consistent, and what factors, such as social environment, audience, and conversational context, influence these dialectal changes?
 -->
 
-- **Deep Learning for Horizontal Dialect Classification**
+- **Deep Learning for Horizontal Dialect Classification**<br>
 How can deep learning techniques be optimized to enhance the classification of German dialects from audio recordings? Key aspects include leveraging insights from misclassified segments and optimizing data augmentation strategies for dialect differentiation.
 
-- **Phonetic Features in Horizontal Dialect Classification**
+- **Phonetic Features in Horizontal Dialect Classification**<br>
 Which phonetic features are crucial for distinguishing between dialects, and how can they be effectively integrated with deep learning models? This includes evaluating the contribution of vowels and extracting relevant phonetic features.
 
-- **Combined Approaches for Enhanced Vertical Dialect Classification**
+- **Combined Approaches for Enhanced Vertical Dialect Classification**<br>
 How can insights from both deep learning and phonetic feature analysis be used to develop a more effective horizontal dialect classification model? This involves analyzing speaking behavior to understand code-switching and the impact of social and contextual factors on dialect variation.
 
 ---
