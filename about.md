@@ -48,7 +48,7 @@ How can insights from both deep learning and phonetic feature analysis be used t
 ---
 
 **Keywords:**  
-<span class="highlight-color">Natural Language Processing</span>, <span class="highlight-color">Dialectology</span>, <span class="highlight-color">Speech Processing</span>, <span class="highlight-color">Audio Classification</span>, <span class="highlight-color">Acoustic Phonetics</span>, <span class="highlight-color">Diatopic and Diaphasic Variation in Dialects</span>, <span class="highlight-color">Code-Switching</span>
+<span class="highlight-color">Natural Language Processing</span>, <span class="highlight-color">Dialectology</span>, <span class="highlight-color">Speech Processing</span>, <span class="highlight-color">Audio Classification</span>, <span class="highlight-color">Acoustic Phonetics</span>, <span class="highlight-color">Diatopic and Diaphasic Variation in Dialects</span>, <span class="highlight-color">Code-Switching</span>, <span class="highlight-color">German dialects</span>, <span class="highlight-color">Computational linguistics</span>, <span class="highlight-color">Automated speech analysis</span>, <span class="highlight-color">Low-resource audio data</span>, <span class="highlight-color">Dialect-standard continuum</span>, <span class="highlight-color">Speaker diarization</span>, <span class="highlight-color">Data augmentation for dialectal speech</span>
 
 ---
 
