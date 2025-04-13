@@ -53,11 +53,15 @@ How can insights from both deep learning and phonetic feature analysis be used t
 ---
 
 # Publications
+- <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Lucie Flek, and Alfred Lameli. 2025. [Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification](https://aclanthology.org/2025.nodalida-1.16/). In _Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)_, pages 159–169, Tallinn, Estonia. University of Tartu Library.
+
 - <span class="highlight-color">Lea Fischbach</span>. 2024. [A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech](https://aclanthology.org/2024.fieldmatters-1.6/). In _Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)_, pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
 
 - <span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
 
 # Selected talks, poster presentations and other updates
+- _"Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification"_, presentation at the conference "Nordic Conference on Computational Linguistics (NoDaLiDa)", Tallinn, Estonia (04.03.2025). (<span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Lucie Flek, and Alfred Lameli)
+
 - _"Fallstricke und Herausforderungen bei der Erstellung einer DL-Pipeline zur Klassifikation deutscher Dialekte aus Audiodaten"_ (Pitfalls and Challenges in Developing a Deep Learning Pipeline for Classifying German Dialects from Audio Data), presentation at the workshop "KI in der Linguistik: Chancen und Herausforderungen (LDDB 2024)" as part of the conference "KI-Methoden im Akademienprogramm: Potenziale und Anwendungsszenarienat", University of Hamburg (23.9.2024). (<span class="highlight-color">Lea Fischbach</span>)
 
 - _"A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech"_, presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)", in the Workshop "Field Matters", Bangkok, Thailand (16.08.2024). (<span class="highlight-color">Lea Fischbach</span>)
