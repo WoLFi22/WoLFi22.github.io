@@ -53,6 +53,8 @@ How can insights from both deep learning and phonetic feature analysis be used t
 ---
 
 # Publications
+- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](). In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing, Varna, Bulgaria.
+
 - <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek. 2025. [Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion](https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#). In _Proc. Interspeech 2025_, pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
 
 - <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Lucie Flek, and Alfred Lameli. 2025. [Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification](https://aclanthology.org/2025.nodalida-1.16/). In _Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)_, pages 159–169, Tallinn, Estonia. University of Tartu Library.
