@@ -53,7 +53,7 @@ How can insights from both deep learning and phonetic feature analysis be used t
 ---
 
 # Publications
-- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.44.pdf). In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era, pages 363--368, Varna, Bulgaria.
+- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.44.pdf). In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era, pages 363--368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
 - <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek. 2025. [Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion](https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#). In _Proc. Interspeech 2025_, pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
 
@@ -64,6 +64,8 @@ How can insights from both deep learning and phonetic feature analysis be used t
 - <span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
 
 # Selected talks, poster presentations and other updates
+- _"EDAudio: Easy Data Augmentation for Dialectal Audio"_, poster at the conference "15th International Conference on Recent Advances in Natural Language Processing – Natural Language Processing in the Generative AI era (RANLP 2025)", Varna, Bulgaria (08.09.2025). (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek)
+
 - _"Deep Learning Pipeline for German Dialect Recognition"_, presentation at the Conference "DiaClas
 Dialect classification – past, present and future", Ljubljana, Slovenia (25.04.2025). (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Lucie Flek, Alfred Lameli)
 
