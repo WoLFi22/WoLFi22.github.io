@@ -53,7 +53,7 @@ How can insights from both deep learning and phonetic feature analysis be used t
 ---
 
 # Publications
-- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.44.pdf). In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era, pages 363--368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
+- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.44.pdf). In _Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era_, pages 363--368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
 - <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek. 2025. [Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion](https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#). In _Proc. Interspeech 2025_, pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
 
