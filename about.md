@@ -13,7 +13,7 @@ Design, implementation and empirical evaluation of preprocessing methods for dia
 - **Horizontal Classification of German Dialects with Deep Learning**<br>
 Application and optimization of deep learning approaches for classifying German dialects from audio recordings, focusing on the analysis of misclassified segments, refinement of data augmentation strategies and the extraction of information from classification outcomes for subsequent linguistic analyses.
 
-**Vertical Classification of Dialectal Variation and Speaker Types**<br>
+- **Vertical Classification of Dialectal Variation and Speaker Types**<br>
 Development of a vertical classification model that builds on horizontal results to capture temporal variation in dialect usage, enabling the identification of speaker types, code-switching behavior and variation along the dialect-standard continuum.
 
 ---
