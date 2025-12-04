@@ -7,48 +7,33 @@ I completed both my Bachelor's and Master's degrees in Informatics at Philipps-U
 <span class="highlight-color">Email</span>: Lea.Fischbach \<at\> uni-marburg \<dot\> de
 
 # Research Interests
+- **Data Preparation for Dialect Classification from Audio**<br>
+Design, implementation and empirical evaluation of preprocessing methods for dialectal audio data, including reliable speaker diarization, segmentation of recordings and normalization strategies, to determine their impact on enabling effective downstream dialect classification.
 
-<!--
-My research is organized into three main areas of focus:
+- **Horizontal Classification of German Dialects with Deep Learning**<br>
+Application and optimization of deep learning approaches for classifying German dialects from audio recordings, focusing on the analysis of misclassified segments, refinement of data augmentation strategies and the extraction of information from classification outcomes for subsequent linguistic analyses.
 
-1. **Horizontal Dialect Classification Using Deep Learning**  
-   *How can deep learning techniques be optimized to improve the classification of German dialects based on audio recordings?*
-
-   - **Insights from Misclassified Segments:**  
-     What insights can be gained by comparing the properties of misclassified segments with the overall dataset properties?
-
-   - **Data Augmentation:**  
-     How does data augmentation affect dialect classification model performance, and what are the optimal strategies for balancing augmentation with original data, particularly regarding the types of augmentation used, its impact on rare speakers and dialects, and the potential shift in model focus from speaker recognition to dialect differentiation?
-
-2. **Horizontal Dialect Classification Using Phonetic Features**  
-   *Which phonetic features are most effective in distinguishing between dialects, and how can they be integrated with deep learning models?*
-
-   - **Vowel Contributions:**  
-     How much information do vowels alone contribute to dialect classification compared to full audio segments?
-
-   - **Phonetic Feature Extraction:**  
-     What are the most relevant phonetic features for distinguishing dialects, and how can they be extracted?
-
-3. **Combined Approaches for Vertical Dialect Classification**  
-   *Can insights from deep learning and phonetic feature analysis be used to construct an enhanced dialect classification model for horizontal classification?*
-
-   - **Dialect Switching Analysis:**  
-     How can the analysis of individual speaking behavior and dialectal variation within specific segments reveal whether a speaker is a dialect switcher, shifter, or remains consistent, and what factors, such as social environment, audience, and conversational context, influence these dialectal changes?
--->
-
-- **Deep Learning for Horizontal Dialect Classification**<br>
-How can deep learning techniques be optimized to enhance the classification of German dialects from audio recordings? Key aspects include leveraging insights from misclassified segments and optimizing data augmentation strategies for dialect differentiation.
-
-- **Phonetic Features in Horizontal Dialect Classification**<br>
-Which phonetic features are crucial for distinguishing between dialects, and how can they be effectively integrated with deep learning models? This includes evaluating the contribution of vowels and extracting relevant phonetic features.
-
-- **Combined Approaches for Enhanced Vertical Dialect Classification**<br>
-How can insights from both deep learning and phonetic feature analysis be used to develop a more effective horizontal dialect classification model? This involves analyzing speaking behavior to understand code-switching and the impact of social and contextual factors on dialect variation.
+**Vertical Classification of Dialectal Variation and Speaker Types**<br>
+Development of a vertical classification model that builds on horizontal results to capture temporal variation in dialect usage, enabling the identification of speaker types, code-switching behavior and variation along the dialect-standard continuum.
 
 ---
 
 **Keywords:**  
-<span class="highlight-color">Natural Language Processing</span>, <span class="highlight-color">Dialectology</span>, <span class="highlight-color">Speech Processing</span>, <span class="highlight-color">Audio Classification</span>, <span class="highlight-color">Acoustic Phonetics</span>, <span class="highlight-color">Diatopic and Diaphasic Variation in Dialects</span>, <span class="highlight-color">Code-Switching</span>, <span class="highlight-color">German dialects</span>, <span class="highlight-color">Computational linguistics</span>, <span class="highlight-color">Automated speech analysis</span>, <span class="highlight-color">Low-resource audio data</span>, <span class="highlight-color">Dialect-standard continuum</span>, <span class="highlight-color">Speaker diarization</span>, <span class="highlight-color">Data augmentation for dialectal speech</span>
+<span class="highlight-color">Speech processing</span>,
+<span class="highlight-color">Audio classification</span>,
+<span class="highlight-color">Deep learning</span>,
+<span class="highlight-color">Acoustic phonetics</span>,
+<span class="highlight-color">Dialectology</span>,
+<span class="highlight-color">German dialects</span>,
+<span class="highlight-color">Diatopic and diaphasic variation</span>,
+<span class="highlight-color">Dialect-standard continuum</span>,
+<span class="highlight-color">Code-switching</span>,
+<span class="highlight-color">Speaker types</span>,
+<span class="highlight-color">Speaker diarization</span>,
+<span class="highlight-color">Low-resource speech data</span>,
+<span class="highlight-color">Data augmentation for speech</span>,
+<span class="highlight-color">Horizontal dialect classification</span>,
+<span class="highlight-color">Vertical dialect classification</span>
 
 ---
 
