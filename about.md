@@ -49,6 +49,8 @@ Development of a vertical classification model that builds on horizontal results
 - <span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
 
 # Selected talks, poster presentations and other updates
+- _"Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"_, poster at the conference "Dialekt 3.0", Marburg, Germany (25.03.2026). (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli, and Lucie Flek)
+
 - _"EDAudio: Easy Data Augmentation for Dialectal Audio"_, poster at the conference "15th International Conference on Recent Advances in Natural Language Processing – Natural Language Processing in the Generative AI era (RANLP 2025)", Varna, Bulgaria (08.09.2025). (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek)
 
 - _"Deep Learning Pipeline for German Dialect Recognition"_, presentation at the Conference "DiaClas
