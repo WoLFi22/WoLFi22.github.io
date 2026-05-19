@@ -49,6 +49,12 @@ Development of a vertical classification model that builds on horizontal results
 - <span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
 
 # Selected talks, poster presentations and other updates
+- [_"Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"_](https://dialres.github.io/dialres/program.html), poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)", Palma (16.05.2026). (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli and Lucie Flek)
+
+- [_"Speaker Normalization via Voice Conversion Reveals a Human-Machine Dissociation in Dialect Classification?"_](https://dialres.github.io/dialres/program.html), poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)", Palma (16.05.2026). (Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek and Alfred Lameli)
+
+- [_"Can LLM Agents Identify Spoken Dialects like a Linguist?"_](https://dialres.github.io/dialres/program.html), presentation at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)", Palma (16.05.2026). (Tobias Bystrich, Lukas Hamm, Maria Hassan Akhter, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek and Akbar Karimi)
+
 - _"Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"_, poster at the conference "Dialekt 3.0", Marburg, Germany (25.03.2026). (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli, and Lucie Flek)
 
 - _"EDAudio: Easy Data Augmentation for Dialectal Audio"_, poster at the conference "15th International Conference on Recent Advances in Natural Language Processing – Natural Language Processing in the Generative AI era (RANLP 2025)", Varna, Bulgaria (08.09.2025). (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek)
