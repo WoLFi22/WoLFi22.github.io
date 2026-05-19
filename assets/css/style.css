@@ -1088,3 +1088,16 @@ a:hover {
         height: 120px;
     }
 }
+
+
+
+.pub-entry {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #ddd;
+    line-height: 1.7;
+}
+
+h2 {
+    margin-top: 3rem;
+}
