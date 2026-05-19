@@ -1091,13 +1091,20 @@ a:hover {
 
 
 
-.pub-entry {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
+.talk-row {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 2rem;
+
+    padding: 2rem 0;
     border-bottom: 1px solid #ddd;
-    line-height: 1.7;
 }
 
-h2 {
-    margin-top: 3rem;
+.talk-year {
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.talk-content {
+    line-height: 1.7;
 }
