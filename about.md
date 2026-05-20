@@ -38,10 +38,22 @@ Development of a vertical classification model that builds on horizontal results
 ---
 
 # Publications
+- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://aclanthology.org/2025.ranlp-1.44/). In _Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era_, pages 363-368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
+- 
 <div class="talk-row">
     <div class="talk-year">2025</div>
     <div class="talk-content">
-- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://aclanthology.org/2025.ranlp-1.44/). In _Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era_, pages 363-368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
+        <p>
+            <span class="highlight-color">Lea Fischbach</span>,
+            Akbar Karimi, Alfred Lameli und Lucie Flek.
+            2025.
+            <a href="https://aclanthology.org/2025.ranlp-1.44/" target="_blank" rel="noopener noreferrer">>
+                EDAudio: Easy Data Augmentation for Dialectal Audio
+            </a>.
+            In <em>Proceedings of the 15th International Conference on Recent
+            Advances in Natural Language Processing</em>,
+            pages 363–368, Varna, Bulgaria.
+        </p>
 
 - <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek. 2025. [Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion](https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#). In _Proc. Interspeech 2025_, pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
 
