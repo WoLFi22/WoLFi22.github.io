@@ -38,8 +38,6 @@ Development of a vertical classification model that builds on horizontal results
 ---
 
 # Publications
-- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek. 2025. [EDAudio: Easy Data Augmentation for Dialectal Audio](https://aclanthology.org/2025.ranlp-1.44/). In _Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era_, pages 363-368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
-- 
 <div class="talk-row">
     <div class="talk-year">2025</div>
     <div class="talk-content">
@@ -47,26 +45,57 @@ Development of a vertical classification model that builds on horizontal results
             <span class="highlight-color">Lea Fischbach</span>,
             Akbar Karimi, Alfred Lameli und Lucie Flek.
             2025.
-            <a href="https://aclanthology.org/2025.ranlp-1.44/" target="_blank" rel="noopener noreferrer">>
+            <a href="https://aclanthology.org/2025.ranlp-1.44/" target="_blank" rel="noopener noreferrer">
                 EDAudio: Easy Data Augmentation for Dialectal Audio
             </a>.
-            In <em>Proceedings of the 15th International Conference on Recent
-            Advances in Natural Language Processing</em>,
-            pages 363–368, Varna, Bulgaria.
+            In <em>Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era</em>,
+            pages 363-368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
         </p>
-
-- <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek. 2025. [Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion](https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#). In _Proc. Interspeech 2025_, pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
-
-- <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Lucie Flek, and Alfred Lameli. 2025. [Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification](https://aclanthology.org/2025.nodalida-1.16/). In _Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)_, pages 159–169, Tallinn, Estonia. University of Tartu Library.
+        <p>
+            <span class="highlight-color">Lea Fischbach</span>,
+            Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek.
+            2025.
+            <a href="https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#" target="_blank" rel="noopener noreferrer">
+                Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion
+            </a>.
+            In <em>Proc. Interspeech 2025</em>,
+            pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
+        </p>
+        <p>
+            <span class="highlight-color">Lea Fischbach</span>,
+            Caroline Kleen, Lucie Flek, and Alfred Lameli.
+            2025.
+            <a href="https://aclanthology.org/2025.nodalida-1.16/" target="_blank" rel="noopener noreferrer">
+            Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification
+            </a>.
+            In <em>Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)</em>,
+            pages 159–169, Tallinn, Estonia. University of Tartu Library.
+        </p>
     </div>
 </div>
 
 <div class="talk-row">
     <div class="talk-year">2024</div>
     <div class="talk-content">
-- <span class="highlight-color">Lea Fischbach</span>. 2024. [A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech](https://aclanthology.org/2024.fieldmatters-1.6/). In _Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)_, pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
-
-- <span class="highlight-color">Fischbach, Lea</span>, Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis. 2024. Dialekte in Hessen. Das Informationsportal zur Sprachgeographie. In: _Sprachspuren: Berichte aus dem Deutschen Sprachatlas_ 4(5). [https://doi.org/10.57712/2024-05](https://doi.org/10.57712/2024-05)
+        <p>
+            <span class="highlight-color">Lea Fischbach</span>.
+            2024.
+            <a href="https://aclanthology.org/2024.fieldmatters-1.6/" target="_blank" rel="noopener noreferrer">
+            A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech
+            </a>.
+            In <em>Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)</em>,
+            pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
+        </p>
+        <p>
+            <span class="highlight-color">Fischbach, Lea</span>,
+            Ganswindt, Brigitte, Lang, Vanessa & Beitel, Dennis.
+            2024.
+            Dialekte in Hessen. Das Informationsportal zur Sprachgeographie.
+            In: <em>Sprachspuren: Berichte aus dem Deutschen Sprachatlas</em> 4(5).
+            <a href="https://doi.org/10.57712/2024-05" target="_blank" rel="noopener noreferrer">
+            https://doi.org/10.57712/2024-05
+            </a>.
+        </p>
     </div>
 </div>
 
@@ -74,54 +103,122 @@ Development of a vertical classification model that builds on horizontal results
 <div class="talk-row">
     <div class="talk-year">2026</div>
     <div class="talk-content">
-- [_"Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"_](https://dialres.github.io/dialres/program.html), poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)", Palma (16.05.2026). (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli and Lucie Flek)
-
-- [_"Speaker Normalization via Voice Conversion Reveals a Human-Machine Dissociation in Dialect Classification?"_](https://dialres.github.io/dialres/program.html), poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)", Palma (16.05.2026). (Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek and Alfred Lameli)
-
-- [_"Can LLM Agents Identify Spoken Dialects like a Linguist?"_](https://dialres.github.io/dialres/program.html), presentation at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)", Palma (16.05.2026). (Tobias Bystrich, Lukas Hamm, Maria Hassan Akhter, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek and Akbar Karimi)
-
-- _"Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"_, poster at the conference "Dialekt 3.0", Marburg, Germany (25.03.2026). (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli, and Lucie Flek)
+        <p>
+            <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
+            <em>"Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"</em>
+            </a>,
+            poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
+            Palma (16.05.2026).
+            (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli and Lucie Flek)
+        </p>
+        <p>
+            <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
+            <em>"Speaker Normalization via Voice Conversion Reveals a Human-Machine Dissociation in Dialect Classification?"</em>
+            </a>,
+            poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
+            Palma (16.05.2026).
+            (Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek and Alfred Lameli)
+        </p>
+        <p>
+            <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
+            <em>"Can LLM Agents Identify Spoken Dialects like a Linguist?"</em>
+            </a>,
+            presentation at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
+            Palma (16.05.2026).
+            (Tobias Bystrich, Lukas Hamm, Maria Hassan Akhter, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek and Akbar Karimi)
+        </p>
+        <p>
+            <em>"Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"</em>,
+            poster at the conference "Dialekt 3.0",
+            Marburg, Germany (25.03.2026).
+            (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli, and Lucie Flek)
+        </p>
     </div>
 </div>
 
 <div class="talk-row">
     <div class="talk-year">2025</div>
     <div class="talk-content">
-- _"EDAudio: Easy Data Augmentation for Dialectal Audio"_, poster at the conference "15th International Conference on Recent Advances in Natural Language Processing – Natural Language Processing in the Generative AI era (RANLP 2025)", Varna, Bulgaria (08.09.2025). (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek)
-
-- _"Deep Learning Pipeline for German Dialect Recognition"_, presentation at the Conference "DiaClas
-Dialect classification – past, present and future", Ljubljana, Slovenia (25.04.2025). (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Lucie Flek, Alfred Lameli)
-
-- _"Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification"_, presentation at the conference "Nordic Conference on Computational Linguistics (NoDaLiDa)", Tallinn, Estonia (04.03.2025). (<span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Lucie Flek, and Alfred Lameli)
+        <p>
+            <em>"EDAudio: Easy Data Augmentation for Dialectal Audio"</em>,
+            poster at the conference "15th International Conference on Recent Advances in Natural Language Processing – Natural Language Processing in the Generative AI era (RANLP 2025)",
+            Varna, Bulgaria (08.09.2025).
+            (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Alfred Lameli, and Lucie Flek)
+        </p>
+        <p>
+            <em>"Deep Learning Pipeline for German Dialect Recognition"</em>,
+            presentation at the Conference "DiaClas Dialect classification – past, present and future",
+            Ljubljana, Slovenia (25.04.2025).
+            (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Lucie Flek, Alfred Lameli)
+        </p>
+        <p>
+            <em>"Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification"</em>,
+            presentation at the conference "Nordic Conference on Computational Linguistics (NoDaLiDa)",
+            Tallinn, Estonia (04.03.2025).
+            (<span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Lucie Flek, and Alfred Lameli)
+        </p>
     </div>
 </div>
 
 <div class="talk-row">
     <div class="talk-year">2024</div>
     <div class="talk-content">
-- _"Fallstricke und Herausforderungen bei der Erstellung einer DL-Pipeline zur Klassifikation deutscher Dialekte aus Audiodaten"_ (Pitfalls and Challenges in Developing a Deep Learning Pipeline for Classifying German Dialects from Audio Data), presentation at the workshop "KI in der Linguistik: Chancen und Herausforderungen (LDDB 2024)" as part of the conference "KI-Methoden im Akademienprogramm: Potenziale und Anwendungsszenarienat", University of Hamburg (23.09.2024). (<span class="highlight-color">Lea Fischbach</span>)
-
-- _"A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech"_, presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)", in the Workshop "Field Matters", Bangkok, Thailand (16.08.2024). (<span class="highlight-color">Lea Fischbach</span>)
-
-- _"EDAudio: Easy Data Augmentation Techniques for Audio Classification"_, presentation at the conference "2th International Conference on Language Variation in Europe – ICLaVE\|12" in the panel: EMBRACING VARIABILITY IN NATURAL LANGUAGE PROCESSING, Vienna, Austria (10.07.2024). (Alfred Lameli, <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Akbar Karimi, Lucie Flek)
-
-- _"Dialekte des Deutschen multiperspektivisch betrachtet: Digitale Methoden zur Analyse gesprochener Sprache"_ (The German dialects from a multiperspective view: Digital methods for the analysis of spoken language), poster at the conference "60. Jahrestagung des Leibniz-Instituts für Deutsche Sprache. Gesprochenes Deutsch: Struktur, Variation, Interaktion", Mannheim, Germany (06.03.2024). (<span class="highlight-color">Lea Fischbach</span>, Marina Frank, Caroline Kleen)
+        <p>
+            <em>"Fallstricke und Herausforderungen bei der Erstellung einer DL-Pipeline zur Klassifikation deutscher Dialekte aus Audiodaten"</em>
+            (Pitfalls and Challenges in Developing a Deep Learning Pipeline for Classifying German Dialects from Audio Data),
+            presentation at the workshop "KI in der Linguistik: Chancen und Herausforderungen (LDDB 2024)" as part of the conference "KI-Methoden im Akademienprogramm: Potenziale und Anwendungsszenarienat",
+            University of Hamburg (23.09.2024).
+            (<span class="highlight-color">Lea Fischbach</span>)
+        </p>
+        <p>
+            <em>"A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech"</em>,
+            presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)" in the Workshop "Field Matters",
+            Bangkok, Thailand (16.08.2024).
+            (<span class="highlight-color">Lea Fischbach</span>)
+        </p>
+        <p>
+            <em>"EDAudio: Easy Data Augmentation Techniques for Audio Classification"</em>,
+            presentation at the conference "2th International Conference on Language Variation in Europe – ICLaVE\|12" in the panel: EMBRACING VARIABILITY IN NATURAL LANGUAGE PROCESSING,
+            Vienna, Austria (10.07.2024).
+            (Alfred Lameli, <span class="highlight-color">Lea Fischbach</span>, Caroline Kleen, Akbar Karimi, Lucie Flek)
+        </p>
+        <p>
+            <em>"Dialekte des Deutschen multiperspektivisch betrachtet: Digitale Methoden zur Analyse gesprochener Sprache"</em>
+            (The German dialects from a multiperspective view: Digital methods for the analysis of spoken language),
+            poster at the conference "60. Jahrestagung des Leibniz-Instituts für Deutsche Sprache. Gesprochenes Deutsch: Struktur, Variation, Interaktion",
+            Mannheim, Germany (06.03.2024).
+            (<span class="highlight-color">Lea Fischbach</span>, Marina Frank, Caroline Kleen)
+        </p>
     </div>
 </div>
 
 <div class="talk-row">
     <div class="talk-year">2022</div>
     <div class="talk-content">
-- _„Un programma di apprendimento di una lingua regionale in forma di App: Implementazione didattica, utilizzo e realizzazione tecnica“_ (A language learning program for a regional language in the form of an app: Educational implementation, usage, and technical development), presentation at Università degli Studi die Modena e Reggio Emilia (03.10.2022). (Peter Kaspar, <span class="highlight-color">Lea Fischbach</span>)
-
-- _„Apps am Sprachatlas – Modernisierungen und Neuentwicklungen“_ (Apps at the Research Center Deutscher Sprachatlas – Modernizations and New Developments"), presentation at the workshop "Herausforderungen linguistischer Datenvisualisierung (LDDB 2022)" at University of Vienna (16.09.2022). (<span class="highlight-color">Lea Fischbach</span>, Robert Engsterhold)
+        <p>
+            <em>„Un programma di apprendimento di una lingua regionale in forma di App: Implementazione didattica, utilizzo e realizzazione tecnica“</em>
+            (A language learning program for a regional language in the form of an app: Educational implementation, usage, and technical development),
+            presentation at Università degli Studi die Modena e Reggio Emilia (03.10.2022).
+            (Peter Kaspar, <span class="highlight-color">Lea Fischbach</span>)
+        </p>
+        <p>
+            <em>„Apps am Sprachatlas – Modernisierungen und Neuentwicklungen“</em>
+            (Apps at the Research Center Deutscher Sprachatlas – Modernizations and New Developments"),
+            presentation at the workshop "Herausforderungen linguistischer Datenvisualisierung (LDDB 2022)" at University of Vienna (16.09.2022).
+            (<span class="highlight-color">Lea Fischbach</span>, Robert Engsterhold)
+        </p>
     </div>
 </div>
 
 <div class="talk-row">
     <div class="talk-year">2020</div>
     <div class="talk-content">
-- _„Welcome to Bavaria – Eine Sprachführer-App für die bayerischen Dialekte“_ (Welcome to Bavaria – A language guide app for Bavarian dialects), presentation at the conference „Minderheitensprachen im digitalen Zeitalter. Sprachgebrauch, Spracherhalt, Sprachvermittlung“ at the Alfred Krupp Wissenschaftskolleg Greifswald (12.12.2020). (<span class="highlight-color">Lea Fischbach</span>, Hanna Fischer, Milena Gropp, Jeffrey Pheiff)
+        <p>
+            <em>„Welcome to Bavaria – Eine Sprachführer-App für die bayerischen Dialekte“</em>
+            (Welcome to Bavaria – A language guide app for Bavarian dialects),
+            presentation at the conference „Minderheitensprachen im digitalen Zeitalter. Sprachgebrauch, Spracherhalt, Sprachvermittlung“ at the Alfred Krupp Wissenschaftskolleg Greifswald (12.12.2020).
+            (<span class="highlight-color">Lea Fischbach</span>, Hanna Fischer, Milena Gropp, Jeffrey Pheiff)
+        </p>
     </div>
 </div>
 
