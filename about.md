@@ -54,8 +54,7 @@ Development of a vertical classification model that builds on horizontal results
             Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek, Alfred Lameli.
             2026.
             <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                Speaker Normalization via Voice Conversion Reveals a Human–Machine Dissociation in Dialect Classification
-            </a>.
+                Speaker Normalization via Voice Conversion Reveals a Human–Machine Dissociation in Dialect Classification</a>.
             In <em>Proceedings of Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
             pages 177-187, Palma de Mallorca, Spain. European Language Resources Association (ELRA).
         </p>
@@ -63,8 +62,7 @@ Development of a vertical classification model that builds on horizontal results
             Tobias Bystrich, Lukas Hamm, Maria Hassan, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek, Akbar Karimi.
             2026.
             <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                Can LLM Agents Identify Spoken Dialects like a Linguist?
-            </a>.
+                Can LLM Agents Identify Spoken Dialects like a Linguist?</a>.
             In <em>Proceedings of Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
             pages 83-92, Palma de Mallorca, Spain. European Language Resources Association (ELRA).
         </p>
@@ -79,8 +77,7 @@ Development of a vertical classification model that builds on horizontal results
             Akbar Karimi, Alfred Lameli und Lucie Flek.
             2025.
             <a href="https://aclanthology.org/2025.ranlp-1.44/" target="_blank" rel="noopener noreferrer">
-                EDAudio: Easy Data Augmentation for Dialectal Audio
-            </a>.
+                EDAudio: Easy Data Augmentation for Dialectal Audio</a>.
             In <em>Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era</em>,
             pages 363-368, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
         </p>
@@ -89,8 +86,7 @@ Development of a vertical classification model that builds on horizontal results
             Akbar Karimi, Caroline Kleen, Alfred Lameli, and Lucie Flek.
             2025.
             <a href="https://www.isca-archive.org/interspeech_2025/fischbach25_interspeech.html#" target="_blank" rel="noopener noreferrer">
-                Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion
-            </a>.
+                Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion</a>.
             In <em>Proc. Interspeech 2025</em>,
             pages 2780-2784, doi: 10.21437/Interspeech.2025-1017.
         </p>
@@ -99,8 +95,7 @@ Development of a vertical classification model that builds on horizontal results
             Caroline Kleen, Lucie Flek, and Alfred Lameli.
             2025.
             <a href="https://aclanthology.org/2025.nodalida-1.16/" target="_blank" rel="noopener noreferrer">
-            Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification
-            </a>.
+            Does Preprocessing Matter? An Analysis of Acoustic Feature Importance in Deep Learning for Dialect Classification</a>.
             In <em>Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)</em>,
             pages 159–169, Tallinn, Estonia. University of Tartu Library.
         </p>
@@ -114,8 +109,7 @@ Development of a vertical classification model that builds on horizontal results
             <span class="highlight-color">Lea Fischbach</span>.
             2024.
             <a href="https://aclanthology.org/2024.fieldmatters-1.6/" target="_blank" rel="noopener noreferrer">
-            A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech
-            </a>.
+            A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech</a>.
             In <em>Proceedings of the 3rd Workshop on NLP Applications to Field Linguistics (Field Matters 2024)</em>,
             pages 43–51, Bangkok, Thailand. Association for Computational Linguistics.
         </p>
@@ -126,8 +120,7 @@ Development of a vertical classification model that builds on horizontal results
             Dialekte in Hessen. Das Informationsportal zur Sprachgeographie.
             In: <em>Sprachspuren: Berichte aus dem Deutschen Sprachatlas</em> 4(5).
             <a href="https://doi.org/10.57712/2024-05" target="_blank" rel="noopener noreferrer">
-            https://doi.org/10.57712/2024-05
-            </a>.
+            https://doi.org/10.57712/2024-05</a>.
         </p>
     </div>
 </div>
@@ -144,24 +137,21 @@ Development of a vertical classification model that builds on horizontal results
         </p>
         <p>
             <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
-            <em>"Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"</em>
-            </a>,
+            <em>"Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"</em></a>,
             poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
             Palma de Mallorca, Spain (16.05.2026).
             (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli and Lucie Flek)
         </p>
         <p>
             <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
-            <em>"Speaker Normalization via Voice Conversion Reveals a Human-Machine Dissociation in Dialect Classification?"</em>
-            </a>,
+            <em>"Speaker Normalization via Voice Conversion Reveals a Human-Machine Dissociation in Dialect Classification?"</em></a>,
             poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
             Palma de Mallorca, Spain (16.05.2026).
             (Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek and Alfred Lameli)
         </p>
         <p>
             <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
-            <em>"Can LLM Agents Identify Spoken Dialects like a Linguist?"</em>
-            </a>,
+            <em>"Can LLM Agents Identify Spoken Dialects like a Linguist?"</em></a>,
             presentation at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
             Palma de Mallorca, Spain (16.05.2026).
             (Tobias Bystrich, Lukas Hamm, Maria Hassan Akhter, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek and Akbar Karimi)
