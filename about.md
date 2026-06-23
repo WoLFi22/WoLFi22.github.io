@@ -46,8 +46,7 @@ Development of a vertical classification model that builds on horizontal results
             Alfred Lameli, Lucie Flek.
             2026.
             <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification
-            </a>.
+                Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification</a>.
             In <em>Proceedings of Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
             pages 93-103, Palma de Mallorca, Spain. European Language Resources Association (ELRA).
         </p>
