@@ -39,6 +39,40 @@ Development of a vertical classification model that builds on horizontal results
 
 # Publications
 <div class="talk-row">
+    <div class="talk-year">2026</div>
+    <div class="talk-content">
+        <p>
+            <span class="highlight-color">Lea Fischbach</span>,
+            Alfred Lameli, Lucie Flek.
+            2026.
+            <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification
+            </a>.
+            In <em>Proceedings of Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
+            pages 93-103, Palma de Mallorca, Spain. European Language Resources Association (ELRA).
+        </p>
+        <p>
+            Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek, Alfred Lameli.
+            2026.
+            <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Speaker Normalization via Voice Conversion Reveals a Human–Machine Dissociation in Dialect Classification
+            </a>.
+            In <em>Proceedings of Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
+            pages 177-187, Palma de Mallorca, Spain. European Language Resources Association (ELRA).
+        </p>
+        <p>
+            Tobias Bystrich, Lukas Hamm, Maria Hassan, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek, Akbar Karimi.
+            2026.
+            <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Can LLM Agents Identify Spoken Dialects like a Linguist?
+            </a>.
+            In <em>Proceedings of Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
+            pages 83-92, Palma de Mallorca, Spain. European Language Resources Association (ELRA).
+        </p>
+    </div>
+</div>
+
+<div class="talk-row">
     <div class="talk-year">2025</div>
     <div class="talk-content">
         <p>
@@ -104,11 +138,17 @@ Development of a vertical classification model that builds on horizontal results
     <div class="talk-year">2026</div>
     <div class="talk-content">
         <p>
+            <em>"Modeling Dialectal Variation through Deep Learning: A CNN-Based Approach to German Dialect Classification"</em>,
+            presentation at the workshop "Embracing Variability in Natural Language Processing" as part of "The 13th International Conference on Language Variation in Europe (ICLaVE | 13)",
+            Lausanne, Switzerland (30.06.2026).
+            (<span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Caroline Kleen, Lucie Flek, Alfred Lameli)
+        </p>
+        <p>
             <a href="https://dialres.github.io/dialres/program.html" target="_blank" rel="noopener noreferrer">
             <em>"Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification"</em>
             </a>,
             poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
-            Palma (16.05.2026).
+            Palma de Mallorca, Spain (16.05.2026).
             (<span class="highlight-color">Lea Fischbach</span>, Alfred Lameli and Lucie Flek)
         </p>
         <p>
@@ -116,7 +156,7 @@ Development of a vertical classification model that builds on horizontal results
             <em>"Speaker Normalization via Voice Conversion Reveals a Human-Machine Dissociation in Dialect Classification?"</em>
             </a>,
             poster at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
-            Palma (16.05.2026).
+            Palma de Mallorca, Spain (16.05.2026).
             (Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek and Alfred Lameli)
         </p>
         <p>
@@ -124,7 +164,7 @@ Development of a vertical classification model that builds on horizontal results
             <em>"Can LLM Agents Identify Spoken Dialects like a Linguist?"</em>
             </a>,
             presentation at the workshop "Dialects in NLP — A Resource Perspective (DialRes)" as part of the conference "Language Resources and Evaluation Conference (LREC 2026)",
-            Palma (16.05.2026).
+            Palma de Mallorca, Spain (16.05.2026).
             (Tobias Bystrich, Lukas Hamm, Maria Hassan Akhter, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek and Akbar Karimi)
         </p>
         <p>
