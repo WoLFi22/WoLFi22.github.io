@@ -176,7 +176,7 @@ Development of a vertical classification model that builds on horizontal results
         </p>
         <p>
             <em>"Deep Learning Pipeline for German Dialect Recognition"</em>,
-            oral presentation at the Conference "DiaClas Dialect classification – past, present and future",
+            oral presentation at the conference "DiaClas Dialect classification – past, present and future",
             Ljubljana, Slovenia (25.04.2025).
             (<span class="highlight-color">Lea Fischbach</span> [presenter], Akbar Karimi, Caroline Kleen, Lucie Flek, Alfred Lameli)
         </p>
@@ -201,7 +201,7 @@ Development of a vertical classification model that builds on horizontal results
         </p>
         <p>
             <em>"A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech"</em>,
-            oral presentation at the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)" in the Workshop "Field Matters",
+            oral presentation at the workshop "Field Matters" as part of the conference "62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)",
             Bangkok, Thailand (16.08.2024).
             (<span class="highlight-color">Lea Fischbach</span> [presenter])
         </p>
