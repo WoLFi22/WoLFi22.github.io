@@ -45,7 +45,7 @@ Development of a vertical classification model that builds on horizontal results
             <span class="highlight-color">Lea Fischbach</span>,
             Alfred Lameli, Lucie Flek.
             2026.
-            <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://lrec.elra.info/lrec2026-ws-dialres-09" target="_blank" rel="noopener noreferrer">
                 Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification</a>.
             In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
             pages 93-103, Palma de Mallorca, Spain. European Language Resources Association (ELRA). doi: 10.63317/5f65nkr6qreo.
@@ -53,7 +53,7 @@ Development of a vertical classification model that builds on horizontal results
         <p>
             Caroline Kleen, <span class="highlight-color">Lea Fischbach</span>, Akbar Karimi, Lucie Flek, Alfred Lameli.
             2026.
-            <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://lrec.elra.info/lrec2026-ws-dialres-18" target="_blank" rel="noopener noreferrer">
                 Speaker Normalization via Voice Conversion Reveals a Human–Machine Dissociation in Dialect Classification</a>.
             In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
             pages 177-187, Palma de Mallorca, Spain. European Language Resources Association (ELRA). doi: 10.63317/3sqk7nxsikhp.
@@ -61,7 +61,7 @@ Development of a vertical classification model that builds on horizontal results
         <p>
             Tobias Bystrich, Lukas Hamm, Maria Hassan Akhter, <span class="highlight-color">Lea Fischbach</span>, Lucie Flek, Akbar Karimi.
             2026.
-            <a href="https://drive.google.com/file/d/1Yg-uSmZ2FUdO91MgDXAayWE2-LyJYNW1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://lrec.elra.info/lrec2026-ws-dialres-08" target="_blank" rel="noopener noreferrer">
                 Can LLM Agents Identify Spoken Dialects like a Linguist?</a>.
             In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
             pages 83-92, Palma de Mallorca, Spain. European Language Resources Association (ELRA). doi: 10.63317/27m2tbgjcat8.
