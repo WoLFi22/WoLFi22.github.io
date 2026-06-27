@@ -47,7 +47,7 @@ Development of a vertical classification model that builds on horizontal results
             2026.
             <a href="https://lrec.elra.info/lrec2026-ws-dialres-09" target="_blank" rel="noopener noreferrer">
                 Beyond Accuracy: Analyzing Dialect Confusion in Automatic Speech-Based Dialect Classification</a>.
-            In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
+            In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes)</em>,
             pages 93-103, Palma de Mallorca, Spain. European Language Resources Association (ELRA). doi: 10.63317/5f65nkr6qreo.
         </p>
         <p>
@@ -55,7 +55,7 @@ Development of a vertical classification model that builds on horizontal results
             2026.
             <a href="https://lrec.elra.info/lrec2026-ws-dialres-18" target="_blank" rel="noopener noreferrer">
                 Speaker Normalization via Voice Conversion Reveals a Human–Machine Dissociation in Dialect Classification</a>.
-            In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
+            In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes)</em>,
             pages 177-187, Palma de Mallorca, Spain. European Language Resources Association (ELRA). doi: 10.63317/3sqk7nxsikhp.
         </p>
         <p>
@@ -63,7 +63,7 @@ Development of a vertical classification model that builds on horizontal results
             2026.
             <a href="https://lrec.elra.info/lrec2026-ws-dialres-08" target="_blank" rel="noopener noreferrer">
                 Can LLM Agents Identify Spoken Dialects like a Linguist?</a>.
-            In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes) @ LREC 2026</em>,
+            In <em>Proceedings of the First Workshop on Dialects in NLP — A Resource Perspective (DialRes)</em>,
             pages 83-92, Palma de Mallorca, Spain. European Language Resources Association (ELRA). doi: 10.63317/27m2tbgjcat8.
         </p>
     </div>
