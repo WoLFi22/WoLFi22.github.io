@@ -41,6 +41,14 @@ Development of a vertical classification model that builds on horizontal results
 <div class="talk-row">
     <div class="talk-year">2026</div>
     <div class="talk-content">
+            <p>
+            <span class="highlight-color">Lea Fischbach</span>,
+            Alfred Lameli, Lucie Flek.
+            2026.
+            <a href="https://www.korpuslab.uni-hamburg.de/en/konvens2026/47.pdf" target="_blank" rel="noopener noreferrer">
+                DIME: A Continuous Dialect Distance Measure from Classification Embeddings</a>.
+            In <em>Proceedings of the 22nd Conference on Natural Language Processing (KONVENS 2026): Long and Short Papers</em>.
+        </p>
         <p>
             <span class="highlight-color">Lea Fischbach</span>,
             Alfred Lameli, Lucie Flek.
@@ -130,8 +138,14 @@ Development of a vertical classification model that builds on horizontal results
     <div class="talk-year">2026</div>
     <div class="talk-content">
         <p>
+            <em>"DIME: A Continuous Dialect Distance Measure from Classification Embeddings"</em>,
+            oral presentation at the workshop "Konferenz zur Verarbeitung natürlicher Sprache (KONVENS 2026)",
+            Hamburg, Germany (17.09.2026).
+            (<span class="highlight-color">Lea Fischbach</span> [presenter], Alfred Lameli, Lucie Flek)
+        </p>
+        <p>
             <em>"Modeling Dialectal Variation through Deep Learning: A CNN-Based Approach to German Dialect Classification"</em>,
-            oral presentation at the workshop "Embracing Variability in Natural Language Processing" as part of "The 13th International Conference on Language Variation in Europe (ICLaVE | 13)",
+            oral presentation at the conference "Embracing Variability in Natural Language Processing" as part of "The 13th International Conference on Language Variation in Europe (ICLaVE | 13)",
             Lausanne, Switzerland (30.06.2026).
             (<span class="highlight-color">Lea Fischbach</span> [presenter], Akbar Karimi, Caroline Kleen, Lucie Flek, Alfred Lameli)
         </p>
